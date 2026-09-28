@@ -1,0 +1,30 @@
+{
+  "id": 8,
+  "name": "Environmental AI & IoT Grant",
+  "objective": "Support AI and IoT technologies for real-time environmental monitoring and decision-making.",
+  "eligible_applicants": [
+    "Students",
+    "Researchers",
+    "Startups",
+    "Educational institutions"
+  ],
+  "focus_areas": [
+    "Air-quality monitoring",
+    "Water-quality monitoring",
+    "Pollution detection",
+    "AI-based environmental analysis",
+    "IoT sensor networks",
+    "Smart-city environmental systems"
+  ],
+  "funding": {
+    "maximum_inr": 600000
+  },
+  "required_documents": [
+    "Project proposal",
+    "AI/IoT architecture",
+    "Dataset or sensor plan",
+    "Budget",
+    "Team details",
+    "Institution approval"
+  ]
+}

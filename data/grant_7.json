@@ -1,0 +1,30 @@
+{
+  "id": 7,
+  "name": "Circular Economy Innovation Grant",
+  "objective": "Encourage technologies that reduce resource consumption and promote reuse, recycling and sustainable production.",
+  "eligible_applicants": [
+    "Students",
+    "Researchers",
+    "Startups",
+    "Academic institutions"
+  ],
+  "focus_areas": [
+    "Recycling",
+    "Material recovery",
+    "Product reuse",
+    "Sustainable manufacturing",
+    "E-waste management",
+    "Resource optimization"
+  ],
+  "funding": {
+    "maximum_inr": 800000
+  },
+  "required_documents": [
+    "Project proposal",
+    "Innovation description",
+    "Market/environmental impact assessment",
+    "Budget",
+    "Applicant details",
+    "Institution approval"
+  ]
+}

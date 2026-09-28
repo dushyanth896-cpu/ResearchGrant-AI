@@ -1,0 +1,29 @@
+{
+  "id": 2,
+  "name": "Green Robotics Innovation Grant",
+  "objective": "Support robotics-based solutions addressing environmental and sustainability challenges.",
+  "eligible_applicants": [
+    "Students",
+    "Researchers",
+    "Academic institutions",
+    "Innovation teams"
+  ],
+  "focus_areas": [
+    "Environmental monitoring robots",
+    "Waste-collection robots",
+    "Agricultural robots",
+    "Water-cleaning robots",
+    "Autonomous inspection systems"
+  ],
+  "funding": {
+    "maximum_inr": 1000000
+  },
+  "required_documents": [
+    "Project proposal",
+    "System architecture",
+    "Project budget",
+    "Applicant/team details",
+    "Institution approval",
+    "Prototype plan"
+  ]
+}

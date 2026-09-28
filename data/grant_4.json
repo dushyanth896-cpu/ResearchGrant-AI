@@ -1,0 +1,28 @@
+{
+  "id": 4,
+  "name": "Climate Technology Student Grant",
+  "objective": "Support student innovations that use technology to address climate-change and sustainability challenges.",
+  "eligible_applicants": [
+    "Undergraduate students",
+    "Postgraduate students",
+    "Student teams"
+  ],
+  "focus_areas": [
+    "Carbon monitoring",
+    "Renewable energy",
+    "Energy efficiency",
+    "Climate monitoring",
+    "Sustainable transportation"
+  ],
+  "funding": {
+    "maximum_inr": 500000
+  },
+  "required_documents": [
+    "Project proposal",
+    "Student ID",
+    "Faculty mentor details",
+    "Budget",
+    "Institution approval",
+    "Expected outcomes"
+  ]
+}

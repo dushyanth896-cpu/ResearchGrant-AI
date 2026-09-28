@@ -1,0 +1,17 @@
+# --- Core app (app.py, rag.py, build_index.py, evaluate.py) ---
+streamlit
+sentence-transformers
+numpy
+python-dotenv
+langchain-google-genai
+
+# --- Optional: PDF ingestion pipeline (ingest.py only) ---
+# ingest.py is a separate, currently-unused pipeline for building a
+# FAISS index from PDF grant documents instead of the JSON files in
+# data/. It is not wired into app.py or rag.py. Skip this section if
+# you don't plan to use ingest.py.
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+faiss-cpu
+pypdf

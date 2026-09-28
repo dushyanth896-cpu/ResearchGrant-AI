@@ -1,0 +1,29 @@
+{
+  "id": 3,
+  "name": "Clean Water Technology Grant",
+  "objective": "Promote affordable technologies for water-quality monitoring, purification and conservation.",
+  "eligible_applicants": [
+    "Students",
+    "Researchers",
+    "Startups",
+    "Academic institutions"
+  ],
+  "focus_areas": [
+    "Water pollution detection",
+    "Smart water-quality monitoring",
+    "Low-cost purification",
+    "IoT water monitoring",
+    "Plastic and microplastic detection"
+  ],
+  "funding": {
+    "maximum_inr": 500000
+  },
+  "required_documents": [
+    "Project proposal",
+    "Problem statement",
+    "Technical methodology",
+    "Budget",
+    "Applicant details",
+    "Institution approval"
+  ]
+}

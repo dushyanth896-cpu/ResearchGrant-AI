@@ -1,0 +1,29 @@
+{
+  "id": 6,
+  "name": "Ocean & Marine Environmental Innovation Grant",
+  "objective": "Support technologies designed to monitor and protect marine and coastal environments.",
+  "eligible_applicants": [
+    "Students",
+    "Researchers",
+    "Universities",
+    "Innovation teams"
+  ],
+  "focus_areas": [
+    "Marine plastic detection",
+    "Underwater robotics",
+    "Ocean monitoring",
+    "Water pollution detection",
+    "Marine biodiversity monitoring"
+  ],
+  "funding": {
+    "maximum_inr": 1000000
+  },
+  "required_documents": [
+    "Project proposal",
+    "Research methodology",
+    "Prototype design",
+    "Budget",
+    "Applicant details",
+    "Institution approval"
+  ]
+}

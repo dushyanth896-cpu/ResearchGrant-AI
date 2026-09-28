@@ -1,0 +1,30 @@
+{
+  "id": 5,
+  "name": "Sustainable Agriculture Technology Grant",
+  "objective": "Fund technology-driven solutions that improve agricultural productivity while reducing environmental impact.",
+  "eligible_applicants": [
+    "Students",
+    "Researchers",
+    "Startups",
+    "Academic institutions"
+  ],
+  "focus_areas": [
+    "Precision agriculture",
+    "Smart irrigation",
+    "Agricultural robotics",
+    "Crop monitoring",
+    "Soil monitoring",
+    "AI-based farming"
+  ],
+  "funding": {
+    "maximum_inr": 750000
+  },
+  "required_documents": [
+    "Project proposal",
+    "Technical architecture",
+    "Budget",
+    "Team details",
+    "Institution approval",
+    "Prototype/testing plan"
+  ]
+}

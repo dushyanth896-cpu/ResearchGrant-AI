@@ -1,0 +1,31 @@
+{
+  "id": 9,
+  "name": "Sustainable Technology Prototype Grant",
+  "objective": "Provide financial support for converting innovative sustainability ideas into functional prototypes.",
+  "eligible_applicants": [
+    "Students",
+    "Researchers",
+    "Academic institutions",
+    "Early-stage innovators"
+  ],
+  "focus_areas": [
+    "Sustainable engineering",
+    "Robotics",
+    "Clean technology",
+    "Environmental monitoring",
+    "Renewable energy",
+    "Smart infrastructure"
+  ],
+  "funding": {
+    "maximum_inr": 500000
+  },
+  "required_documents": [
+    "Project proposal",
+    "Prototype design",
+    "Bill of materials",
+    "Budget",
+    "Applicant details",
+    "Institution approval",
+    "Development timeline"
+  ]
+}

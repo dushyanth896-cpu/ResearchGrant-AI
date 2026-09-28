@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "name": "Smart Waste Management Innovation Grant",
+  "source": "grant_1.json",
+  "objective": "Support innovative technologies for reducing, monitoring and managing municipal and industrial waste.",
+  "eligible_applicants": [
+    "Students",
+    "Researchers",
+    "Startups",
+    "Academic institutions"
+  ],
+  "focus_areas": [
+    "Smart waste segregation",
+    "AI-based waste detection",
+    "Recycling technologies",
+    "Waste-to-energy",
+    "IoT-based waste monitoring"
+  ],
+  "funding": {
+    "maximum_inr": 500000
+  },
+  "required_documents": [
+    "Project proposal",
+    "Technical design",
+    "Budget estimate",
+    "Applicant details",
+    "Institution approval",
+    "Prototype/demo details"
+  ]
+}
